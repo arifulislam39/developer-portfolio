@@ -11,6 +11,8 @@
     font-weight: 700;
     font-size: 20px;
     color: #FFFFFF;
+    border: 0;
+    padding: 18px 35px;
     height: 64px;
     border-radius: 5px;
     background: #FD6E0A;
@@ -30,10 +32,36 @@ nav {
 
 nav ul {
     display: flex;
+    align-items: center;
 }
 
 
 nav li {
     list-style: none;
     margin-left: 50px;
+}
+
+/* banner styles */
+.banner {
+    display: flex;
+    align-items: center;
+    margin: 0 200px;
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 85px;
+    color: #181818;
+}
+
+.banner-sub-title {
+    font-weight: 600;
+    font-size: 45px;
+    color: #474747;
+}
+
+.banner-description {
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
 }
