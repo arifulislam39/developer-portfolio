@@ -58,10 +58,12 @@ nav li {
     font-weight: 600;
     font-size: 45px;
     color: #474747;
+    margin-bottom: 20px;
 }
 
 .banner-description {
     font-weight: 400;
     font-size: 18px;
     color: #757575;
+    margin-bottom: 30px;
 }
