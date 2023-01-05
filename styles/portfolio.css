@@ -18,6 +18,10 @@
     background: #FD6E0A;
 }
 
+.header{
+    background-color: #FFF8F3;
+}
+
 /* header and navigation styles */
 nav {
     display: flex;
